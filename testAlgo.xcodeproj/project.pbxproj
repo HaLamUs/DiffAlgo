@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					EB8B81221EACF152005F74EA = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = LR8XGHFLF8;
 						ProvisioningStyle = Automatic;
 					};
 					EB8B81361EACF152005F74EA = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LR8XGHFLF8;
 				INFOPLIST_FILE = testAlgo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gotadi.com.testAlgo;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LR8XGHFLF8;
 				INFOPLIST_FILE = testAlgo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gotadi.com.testAlgo;
